@@ -27,3 +27,13 @@ export const isWalletConnected = async () => {
         return false;
     }
 };
+export const isWalletConnected = async () => {
+    if (window.ethereum) {
+        const accounts = await window.ethereum.request({ method: 'eth_accounts' });
+        return accounts.length > 0;
+    } else {
+        // If window.ethereum is not found, then a wallet is not connected
+        return false;
+    }
+};
+
