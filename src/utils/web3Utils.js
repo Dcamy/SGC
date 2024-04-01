@@ -14,3 +14,16 @@ export const connectWallet = async () => {
         alert('Please install MetaMask to use this feature!'); // If MetaMask isn't installed
     }
 };
+
+// src/utils/web3Utils.js
+
+// This function checks if the wallet is connected
+export const isWalletConnected = async () => {
+    if (window.ethereum) {
+        const accounts = await window.ethereum.request({ method: 'eth_accounts' });
+        return accounts.length > 0;
+    } else {
+        // If window.ethereum is not found, then a wallet is not connected
+        return false;
+    }
+};
