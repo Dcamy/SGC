@@ -14,7 +14,7 @@ const connectWallet = async () => {
 };
 
 
-function ProjectTemplate() {
+function ProjectNomad() {
     // TODO: Add props and logic as needed
 
     return (
@@ -25,10 +25,10 @@ function ProjectTemplate() {
                 <header>
                     <Link to="/blog-post" className="block mb-6">
                         <h3 className="h4 mb-2">
-                            <Link to="/blog-post" className="hover:text-gray-100 transition duration-150 ease-in-out">Project Template</Link>
+                            <Link to="/blog-post" className="hover:text-gray-100 transition duration-150 ease-in-out">Project Nomad</Link>
                         </h3>
                         <figure className="relative h-0 pb-9/16 overflow-hidden rounded-sm">
-                            <img className="absolute inset-0 w-full h-full object-cover transform hover:scale-105 transition duration-700 ease-out" src={require('../images/news-01.jpg').default} width="352" height="198" alt="News 01" />
+                            <img className="absolute inset-0 w-full h-full object-cover transform hover:scale-105 transition duration-700 ease-out" src={require('../images/c3533fd1-e633-41d6-ac19-6a6e6817f6b2.webp').default} width="352" height="198" alt="News 01" />
                         </figure>
                     </Link>
                     <div className="mb-3">
@@ -42,13 +42,14 @@ function ProjectTemplate() {
                                 className="text-gray-100 py-1 px-3 rounded-full bg-purple-600 hover:bg-purple-700 transition duration-150 ease-in-out m-1"
                             >
                                 <option value="">Coin</option> {/* This is the default placeholder option */}
-                                <option value="ETH">Ethereum</option>
                                 <option value="BNB">BNB</option>
+                                {/*<option value="ETH">Ethereum</option>
+                                
                                 <option value="AVAX">Avalanche</option>
                                 <option value="MATIC">Polygon</option>
                                 <option value="ARB">Arbitrum</option>
                                 <option value="FTM">Fantom</option>
-                                <option value="AURORA">Aurora</option>
+                                <option value="AURORA">Aurora</option>*/}
                                 {/* Add more currencies as needed */}
                             </select>
 
@@ -71,7 +72,7 @@ function ProjectTemplate() {
 
 
                 </header>
-                <p className="text-lg text-gray-400 flex-grow">Fund our two-tier affiliate program: a tool for community growth, not pyramids. Build your clan, embed with ease, and value transparency and privacy.</p>
+                <p className="text-lg text-gray-400 flex-grow">Ignite the exchange with Project Nomad: your crypto turns into local fiat, no banks required. It's a seamless swap, from your digital wallet to their real-world cash. Quick, private, borderless.</p>
                 <footer className="flex items-center mt-4">
                     <Link to="#">
                         <img className="rounded-full flex-shrink-0 mr-4" src={require('../images/Screenshot 2024-03-28 081454.png').default} width="60" height="60" alt="Author 01" />
@@ -130,4 +131,4 @@ function ProjectTemplate() {
     );
 }
 
-export default ProjectTemplate;
+export default ProjectNomad;

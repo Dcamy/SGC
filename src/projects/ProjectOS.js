@@ -28,7 +28,7 @@ function ProjectOS() {
                             <Link to="/blog-post" className="hover:text-gray-100 transition duration-150 ease-in-out">Project OS</Link>
                         </h3>
                         <figure className="relative h-0 pb-9/16 overflow-hidden rounded-sm">
-                            <img className="absolute inset-0 w-full h-full object-cover transform hover:scale-105 transition duration-700 ease-out" src={require('../images/news-01.jpg').default} width="352" height="198" alt="News 01" />
+                            <img className="absolute inset-0 w-full h-full object-cover transform hover:scale-105 transition duration-700 ease-out" src={require('../images/danny0639_Using_this_image_for_branding_and_style_please_make_i_918c3c93-98e9-46dc-a371-bb5c053dce1d.png').default} width="352" height="198" alt="News 01" />
                         </figure>
                     </Link>
                     <div className="mb-3">
@@ -71,7 +71,7 @@ function ProjectOS() {
 
 
                 </header>
-                <p className="text-lg text-gray-400 flex-grow">Fund our two-tier affiliate program: a tool for community growth, not pyramids. Build your clan, embed with ease, and value transparency and privacy.</p>
+                <p className="text-lg text-gray-400 flex-grow">Introducing Project OS: your AI operating system overlay. Seamlessly control your PC, safeguard your data, and revolutionize data ownership. It's the future of data privacy</p>
                 <footer className="flex items-center mt-4">
                     <Link to="#">
                         <img className="rounded-full flex-shrink-0 mr-4" src={require('../images/Screenshot 2024-03-28 081454.png').default} width="60" height="60" alt="Author 01" />

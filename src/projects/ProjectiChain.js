@@ -28,7 +28,7 @@ function ProjectiChain() {
                             <Link to="/blog-post" className="hover:text-gray-100 transition duration-150 ease-in-out">Project iChain</Link>
                         </h3>
                         <figure className="relative h-0 pb-9/16 overflow-hidden rounded-sm">
-                            <img className="absolute inset-0 w-full h-full object-cover transform hover:scale-105 transition duration-700 ease-out" src={require('../images/news-01.jpg').default} width="352" height="198" alt="News 01" />
+                            <img className="absolute inset-0 w-full h-full object-cover transform hover:scale-105 transition duration-700 ease-out" src={require('../images/iChain.png').default} width="352" height="198" alt="News 01" />
                         </figure>
                     </Link>
                     <div className="mb-3">
@@ -71,7 +71,7 @@ function ProjectiChain() {
 
 
                 </header>
-                <p className="text-lg text-gray-400 flex-grow">Fund our two-tier affiliate program: a tool for community growth, not pyramids. Build your clan, embed with ease, and value transparency and privacy.</p>
+                <p className="text-lg text-gray-400 flex-grow">Project iChain: Harness the power of trust in every transaction. A network that intertwines reliability with technology, forging a future where every link in the chain strengthens collective security and individual sovereignty.</p>
                 <footer className="flex items-center mt-4">
                     <Link to="#">
                         <img className="rounded-full flex-shrink-0 mr-4" src={require('../images/Screenshot 2024-03-28 081454.png').default} width="60" height="60" alt="Author 01" />

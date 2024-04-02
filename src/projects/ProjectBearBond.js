@@ -25,10 +25,10 @@ function ProjectBearBond() {
                 <header>
                     <Link to="/blog-post" className="block mb-6">
                         <h3 className="h4 mb-2">
-                            <Link to="/blog-post" className="hover:text-gray-100 transition duration-150 ease-in-out">Project Ber Bond</Link>
+                            <Link to="/blog-post" className="hover:text-gray-100 transition duration-150 ease-in-out">Project Bearer Bond</Link>
                         </h3>
                         <figure className="relative h-0 pb-9/16 overflow-hidden rounded-sm">
-                            <img className="absolute inset-0 w-full h-full object-cover transform hover:scale-105 transition duration-700 ease-out" src={require('../images/news-01.jpg').default} width="352" height="198" alt="News 01" />
+                            <img className="absolute inset-0 w-full h-full object-cover transform hover:scale-105 transition duration-700 ease-out" src={require('../images/BearerBond.png').default} width="352" height="198" alt="News 01" />
                         </figure>
                     </Link>
                     <div className="mb-3">
@@ -71,7 +71,7 @@ function ProjectBearBond() {
 
 
                 </header>
-                <p className="text-lg text-gray-400 flex-grow">Fund our two-tier affiliate program: a tool for community growth, not pyramids. Build your clan, embed with ease, and value transparency and privacy.</p>
+                <p className="text-lg text-gray-400 flex-grow">Embrace ownership with Project Bearer Bond: your stake in tomorrow's tech, today. An NFT for equity, secure, solid. Tradeable, yet personal. Your key to the future, unfurled in code.</p>
                 <footer className="flex items-center mt-4">
                     <Link to="#">
                         <img className="rounded-full flex-shrink-0 mr-4" src={require('../images/Screenshot 2024-03-28 081454.png').default} width="60" height="60" alt="Author 01" />

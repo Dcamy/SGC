@@ -10,7 +10,7 @@ import './css/style.scss';
 import AOS from 'aos';
 import { focusHandling } from 'cruip-js-toolkit';
 
-import Home from './pages/Home';
+import Home from './pages/Blog';
 import Features from './pages/Features';
 import Pricing from './pages/Pricing';
 import Blog from './pages/Blog';

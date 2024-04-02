@@ -28,7 +28,7 @@ function ProjectSolcialImpact() {
                             <Link to="/blog-post" className="hover:text-gray-100 transition duration-150 ease-in-out">Project Social Impact</Link>
                         </h3>
                         <figure className="relative h-0 pb-9/16 overflow-hidden rounded-sm">
-                            <img className="absolute inset-0 w-full h-full object-cover transform hover:scale-105 transition duration-700 ease-out" src={require('../images/news-01.jpg').default} width="352" height="198" alt="News 01" />
+                            <img className="absolute inset-0 w-full h-full object-cover transform hover:scale-105 transition duration-700 ease-out" src={require('../images/SocialImpact.webp').default} width="352" height="198" alt="News 01" />
                         </figure>
                     </Link>
                     <div className="mb-3">
@@ -71,7 +71,7 @@ function ProjectSolcialImpact() {
 
 
                 </header>
-                <p className="text-lg text-gray-400 flex-grow">Fund our two-tier affiliate program: a tool for community growth, not pyramids. Build your clan, embed with ease, and value transparency and privacy.</p>
+                <p className="text-lg text-gray-400 flex-grow">Empower lives with Project Social Impact: a pledge for nurturing hope. Help us raise $2k monthly to safeguard the haven for children and elders. Be part of their story, partake in their journey of growth.</p>
                 <footer className="flex items-center mt-4">
                     <Link to="#">
                         <img className="rounded-full flex-shrink-0 mr-4" src={require('../images/Screenshot 2024-03-28 081454.png').default} width="60" height="60" alt="Author 01" />
@@ -79,7 +79,7 @@ function ProjectSolcialImpact() {
                     <div className="font-medium">
                         <Link to="#" className="text-gray-200 hover:text-gray-100 transition duration-150 ease-in-out">#PoC #SGC #DAO #NFTBearerBond #Doxxed #Difficulty4</Link>
                         <span className="text-gray-700"> - </span>
-                        <span className="text-gray-500">Goal $5000</span>
+                        <span className="text-gray-500">Goal $5000 Per Month </span>
                     </div>
                 </footer>
                 <span className="text-gray-500 pl-4"> - </span>

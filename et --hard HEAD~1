@@ -1,0 +1,44 @@
+[33mcommit dcb8955c02139b32446b2c2e66d4b555f403fe3b[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Dcamy <dbordwel@gmail.com>
+Date:   Mon Apr 1 15:43:29 2024 +0700
+
+    Implement isWalletConnected function in web3Utils
+
+[33mcommit 25c1aec51e5b10bc3003a5c5524146f30cfb8c50[m
+Merge: 2509c38 f497003
+Author: Dcamy <dbordwel@gmail.com>
+Date:   Mon Apr 1 15:38:36 2024 +0700
+
+    Merge branch 'main' of https://github.com/Dcamy/SGC
+
+[33mcommit 2509c38eeb573b20392d44017f8ec467ff2c6b5f[m
+Author: Dcamy <dbordwel@gmail.com>
+Date:   Mon Apr 1 15:09:43 2024 +0700
+
+    Add isWalletConnected function to web3Utils
+
+[33mcommit f497003d5fbc6b102c82d486b39e320507c2a2cf[m
+Author: Dcamy <96091379+Dcamy@users.noreply.github.com>
+Date:   Mon Apr 1 15:07:24 2024 +0700
+
+    Create General KBF for Accomplishing Tasks.md
+    
+    Add KBF for Accomplishing Tasks
+
+[33mcommit dea2c1b16de469be658b9ffe5318738b61c42161[m
+Author: Dcamy <dbordwel@gmail.com>
+Date:   Mon Apr 1 13:40:47 2024 +0700
+
+    Refactor BlogList to dynamically load project tiles
+
+[33mcommit 6da16e542a76c44a248584d0097f6c008d8168ff[m
+Author: Dcamy <dbordwel@gmail.com>
+Date:   Mon Apr 1 12:00:17 2024 +0700
+
+    Add project files
+
+[33mcommit 75c2e84969166a83c5c5accf2e5d473837bebf06[m
+Author: Dcamy <96091379+Dcamy@users.noreply.github.com>
+Date:   Mon Apr 1 09:23:49 2024 +0700
+
+    Initial commit
