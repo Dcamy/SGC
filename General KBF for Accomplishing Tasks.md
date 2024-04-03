@@ -1,5 +1,6 @@
 # General KBF for Accomplishing Tasks
 
+
 ## Understanding the Task
 1. **Define the Goal**: What is the desired outcome?
 2. **Information Gathering**: Collect all necessary details about the task.
@@ -24,6 +25,7 @@
 ## Iterative Review and Adaptation
 1. **Progress Review**: Regularly check if each step brings you closer to the goal.
 2. **Plan Adaptation**: Adjust the plan as needed based on feedback and results.
+3. **Detailed Logs**: Keep deatailed logs of your findings, progress, hurdles etc. with simular brevity of a commit messgaes.
 
 ## Finalizing
 1. **Final Check**: Ensure all steps have been completed and the goal is achieved.
